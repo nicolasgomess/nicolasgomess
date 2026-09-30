@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP). Foco em atuar, principalmente, na área de Sistemas de Informação, Tecnologia da Informação e Gestão de Pessoas.</p>
+<p align="left">Estudante de Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP). Foco em atuar, principalmente, na área de Sistemas de Informação, Tecnologia da Informação e Métodos Ágeis.</p>
 
 ###
 
